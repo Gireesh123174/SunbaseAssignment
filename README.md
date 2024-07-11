@@ -5,15 +5,15 @@ This project is a Java EE web application that demonstrates CRUD (Create, Read, 
 - Features
 1. Create: Add new students to the database.
 2. Read: Display a list of all students.
-Update: Edit existing student information.
-Delete: Remove a student from the database.
-Prerequisites
-Before running this application, ensure you have the following installed:
-Java Development Kit (JDK) 8 or higher
-Apache Tomcat 9.0 or compatible servlet container
-MySQL or another compatible relational database
-IDE (like Eclipse, IntelliJ IDEA) with support for Java EE web development
-Setup
+3. Update: Edit existing student information.
+4. Delete: Remove a student from the database.
+- Prerequisites
+1. Before running this application, ensure you have the following installed:
+2. Java Development Kit (JDK) 8 or higher
+3. Apache Tomcat 9.0 or compatible servlet container
+4. MySQL or another compatible relational database
+5. IDE (like Eclipse, IntelliJ IDEA) with support for Java EE web development
+- Setup
 1. Clone the repository:
     git clone https://github.com/your-username/StudentCRUDApp.git
 2. Database Setup:
