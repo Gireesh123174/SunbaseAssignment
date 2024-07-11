@@ -44,6 +44,6 @@ Adding a Student:</br>
 Click on "Add New Student" on the home page (add.jsp).</br>
 Fill out the form and click "Add".</br>
 
-![Screenshot 2024-07-11 181852](https://github.com/Gireesh123174/SunbaseAssignment/assets/85821830/315d2767-4095-42da-a2f8-d8627598e986) <img src="https://your-image-url.type" width="100" height="100">
+ <img src="![Screenshot 2024-07-11 181852](https://github.com/Gireesh123174/SunbaseAssignment/assets/85821830/315d2767-4095-42da-a2f8-d8627598e986)" width="100" height="100">
 
 
