@@ -28,8 +28,8 @@ This project is a Java EE web application that demonstrates CRUD (Create, Read, 
 6. Build the Project:</br>
      - Build the project to resolve dependencies and compile the code.</br>
 Deployment</br>
-   1. Deploy to Tomcat:</br>
-        - Configure your IDE to deploy the application to Apache Tomcat.
+1. Deploy to Tomcat:</br>
+      - Configure your IDE to deploy the application to Apache Tomcat.
         - Start Tomcat and deploy the project to the server.
    2. Access the Application:
         - Open a web browser and go to http://localhost:8080/StudentCRUDApp (replace 8080 with your Tomcat port if different).</br>
