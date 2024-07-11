@@ -7,13 +7,8 @@ This project is a Java EE web application that demonstrates CRUD (Create, Read, 
 3. Apache Tomcat 9.0 or compatible servlet container
 4. MySQL or another compatible relational database
 5. IDE (like Eclipse, IntelliJ IDEA) with support for Java EE web development
-- Setup
-- Features
-1. Create: Add new students to the database.
-2. Read: Display a list of all students.
-3. Update: Edit existing student information.
-4. Delete: Remove a student from the database.
 
+- Setup
 1. Clone the repository:                                                                                                                                                                                          
      git clone https://github.com/your-username/StudentCRUDApp.git
 2. Database Setup:                                                                                                                                                                                             
@@ -38,6 +33,12 @@ Deployment
         .Start Tomcat and deploy the project to the server.
    2. Access the Application:
         .Open a web browser and go to http://localhost:8080/StudentCRUDApp (replace 8080 with your Tomcat port if different).
+
+   - Features
+1. Create: Add new students to the database.
+2. Read: Display a list of all students.
+3. Update: Edit existing student information.
+4. Delete: Remove a student from the database.
 Usage
 Adding a Student:
 Click on "Add New Student" on the home page (index.jsp).
