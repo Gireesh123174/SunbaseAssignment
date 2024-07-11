@@ -40,13 +40,13 @@ This project is a Java EE web application that demonstrates CRUD (Create, Read, 
 3. Update: Edit existing student information.
 4. Delete: Remove a student from the database.
 - Usage</br>
-Adding a Student:</br>
+- Adding a Student:</br>
 Click on "Add New Student" on the home page (add.jsp).</br>
 Fill out the form and click "Add".</br>
 
  <img src="https://github.com/Gireesh123174/SunbaseAssignment/assets/85821830/315d2767-4095-42da-a2f8-d8627598e986)" width="1000" height="500">
 
-Updating a Student</br>
+- Updating a Student</br>
 
 On the student list page (list.jsp), click "Edit" next to a student.</br>
 Update the information and click "Update".</br>
