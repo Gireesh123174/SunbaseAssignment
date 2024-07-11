@@ -14,12 +14,12 @@ This project is a Java EE web application that demonstrates CRUD (Create, Read, 
 2. Database Setup:                                                                                                                                                                                             
      Create a MySQL database named student_db.                                                                                                                                                                
      Execute the following SQL script to create the students table:
-        CREATE TABLE students (
-           id INT PRIMARY KEY AUTO_INCREMENT,
-           name VARCHAR(50),
-           email VARCHAR(50),
-           age INT
-       );
+        CREATE TABLE students ( </br>
+           id INT PRIMARY KEY AUTO_INCREMENT, </br>
+           name VARCHAR(50), </br>
+           email VARCHAR(50), </br>
+           age INT </br>
+       ); </br>
 4. Import Project into IDE:
      .Open your IDE (Eclipse, IntelliJ IDEA, etc.).
      .Import the project as a Dynamic Web Project.
