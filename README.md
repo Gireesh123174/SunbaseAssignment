@@ -20,14 +20,14 @@ This project is a Java EE web application that demonstrates CRUD (Create, Read, 
            email VARCHAR(50), </br>
            age INT </br>
        ); </br>
-4. Import Project into IDE:
-     .Open your IDE (Eclipse, IntelliJ IDEA, etc.).
-     .Import the project as a Dynamic Web Project.
-5. Configure JDBC Connection:
-     .Edit JDBC_Connection.java in the com.utility package to set your database connection details (URL, username, password).
-6. Build the Project:
-     .Build the project to resolve dependencies and compile the code.
-Deployment
+4. Import Project into IDE:</br>
+     .Open your IDE (Eclipse, IntelliJ IDEA, etc.).</br>
+     .Import the project as a Dynamic Web Project.</br>
+5. Configure JDBC Connection:</br>
+     .Edit JDBC_Connection.java in the com.utility package to set your database connection details (URL, username, password).</br>
+6. Build the Project:</br>
+     .Build the project to resolve dependencies and compile the code.</br>
+Deployment</br>
    1. Deploy to Tomcat:
         .Configure your IDE to deploy the application to Apache Tomcat.
         .Start Tomcat and deploy the project to the server.
