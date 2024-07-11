@@ -65,5 +65,10 @@ Update the information and click "Update".</br>
 - Searching a Student Name</br>
 <img src="https://github.com/Gireesh123174/SunbaseAssignment/assets/85821830/40d9b53a-75cd-4c2a-b7a5-6186fa808640)" width="1000" height="500">
 
+- Searched Student Name</br>
+
+<img src="https://github.com/Gireesh123174/SunbaseAssignment/assets/85821830/63d48250-b70e-4713-a222-ee548ab44698)" width="1000" height="500">
+
+
 
 
