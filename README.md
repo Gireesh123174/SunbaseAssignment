@@ -13,7 +13,7 @@ This project is a Java EE web application that demonstrates CRUD (Create, Read, 
      git clone https://github.com/your-username/StudentCRUDApp.git
 2. Database Setup:                                                                                                                                                                                             
      Create a MySQL database named student_db.                                                                                                                                                                
-     Execute the following SQL script to create the students table:
+     Execute the following SQL script to create the students table:</br>
         CREATE TABLE students ( </br>
            id INT PRIMARY KEY AUTO_INCREMENT, </br>
            name VARCHAR(50), </br>
