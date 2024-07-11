@@ -27,7 +27,7 @@ This project is a Java EE web application that demonstrates CRUD (Create, Read, 
      - Edit JDBC_Connection.java in the com.utility package to set your database connection details (URL, username, password).</br>
 6. Build the Project:</br>
      - Build the project to resolve dependencies and compile the code.</br>
-- Deployment:</br>
+- Deployment</br>
 1. Deploy to Tomcat:</br>
       - Configure your IDE to deploy the application to Apache Tomcat.
       - Start Tomcat and deploy the project to the server.
@@ -39,8 +39,8 @@ This project is a Java EE web application that demonstrates CRUD (Create, Read, 
 2. Read: Display a list of all students.
 3. Update: Edit existing student information.
 4. Delete: Remove a student from the database.
-Usage
+- Usage
 Adding a Student:
-Click on "Add New Student" on the home page (index.jsp).
-Fill out the form and click "Add".
+Click on "Add New Student" on the home page (index.jsp).</br>
+Fill out the form and click "Add".</br>
 ![Screenshot 2024-07-11 181852](https://github.com/Gireesh123174/SunbaseAssignment/assets/85821830/315d2767-4095-42da-a2f8-d8627598e986)
