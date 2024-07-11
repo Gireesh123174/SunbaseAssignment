@@ -21,7 +21,7 @@ This project is a Java EE web application that demonstrates CRUD (Create, Read, 
            age INT </br>
        ); </br>
 4. Import Project into IDE:</br>
-     .Open your IDE (Eclipse, IntelliJ IDEA, etc.).</br>
+     - Open your IDE (Eclipse, IntelliJ IDEA, etc.).</br>
      .Import the project as a Dynamic Web Project.</br>
 5. Configure JDBC Connection:</br>
      .Edit JDBC_Connection.java in the com.utility package to set your database connection details (URL, username, password).</br>
