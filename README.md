@@ -41,6 +41,6 @@ This project is a Java EE web application that demonstrates CRUD (Create, Read, 
 4. Delete: Remove a student from the database.
 - Usage</br>
 Adding a Student:</br>
-Click on "Add New Student" on the home page (index.jsp).</br>
+Click on "Add New Student" on the home page (add.jsp).</br>
 Fill out the form and click "Add".</br>
 ![Screenshot 2024-07-11 181852](https://github.com/Gireesh123174/SunbaseAssignment/assets/85821830/315d2767-4095-42da-a2f8-d8627598e986)
