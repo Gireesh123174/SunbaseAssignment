@@ -34,7 +34,7 @@ Deployment</br>
    2. Access the Application:
         .Open a web browser and go to http://localhost:8080/StudentCRUDApp (replace 8080 with your Tomcat port if different).</br>
 
-   - Features
+- Features
 1. Create: Add new students to the database.
 2. Read: Display a list of all students.
 3. Update: Edit existing student information.
