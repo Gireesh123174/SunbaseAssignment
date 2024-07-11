@@ -15,8 +15,8 @@ This project is a Java EE web application that demonstrates CRUD (Create, Read, 
 5. IDE (like Eclipse, IntelliJ IDEA) with support for Java EE web development
 - Setup
 1. Clone the repository:
-    git clone https://github.com/your-username/StudentCRUDApp.git
-2. Database Setup:
+       git clone https://github.com/your-username/StudentCRUDApp.git
+3. Database Setup:
    .Create a MySQL database named student_db.
    .Execute the following SQL script to create the students table:
         CREATE TABLE students (
@@ -25,12 +25,12 @@ This project is a Java EE web application that demonstrates CRUD (Create, Read, 
            email VARCHAR(50),
            age INT
        );
-3. Import Project into IDE:
+4. Import Project into IDE:
      .Open your IDE (Eclipse, IntelliJ IDEA, etc.).
      .Import the project as a Dynamic Web Project.
-4. Configure JDBC Connection:
+5. Configure JDBC Connection:
      .Edit JDBC_Connection.java in the com.utility package to set your database connection details (URL, username, password).
-5. Build the Project:
+6. Build the Project:
      .Build the project to resolve dependencies and compile the code.
 Deployment
    1. Deploy to Tomcat:
