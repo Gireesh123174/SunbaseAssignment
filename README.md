@@ -3,8 +3,8 @@
 This project is a Java EE web application that demonstrates CRUD (Create, Read, Update, Delete) operations on a database table using JDBC, Servlets, and JSP.
 
 - Features
-Create: Add new students to the database.
-Read: Display a list of all students.
+1. Create: Add new students to the database.
+2. Read: Display a list of all students.
 Update: Edit existing student information.
 Delete: Remove a student from the database.
 Prerequisites
