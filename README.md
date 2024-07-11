@@ -46,6 +46,10 @@ Fill out the form and click "Add".</br>
 
  <img src="https://github.com/Gireesh123174/SunbaseAssignment/assets/85821830/315d2767-4095-42da-a2f8-d8627598e986)" width="1000" height="500">
 
+ - List of the students:</br>
+ <img src="https://github.com/Gireesh123174/SunbaseAssignment/assets/85821830/16d3a7da-dbdf-4621-918e-16acd303b20e)" width="1000" height="500">
+
+
 - Updating a Student</br>
 
 On the student list page (list.jsp), click "Edit" next to a student.</br>
