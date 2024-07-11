@@ -63,7 +63,7 @@ Update the information and click "Update".</br>
 <img src="https://github.com/Gireesh123174/SunbaseAssignment/assets/85821830/0551ced2-32ce-4ce6-a4fd-84a6d18e23de)" width="1000" height="500">
 
 - Searching a Student Name</br>
-<img src="![Screenshot 2024-07-11 181922]https://github.com/Gireesh123174/SunbaseAssignment/assets/85821830/40d9b53a-75cd-4c2a-b7a5-6186fa808640)" width="1000" height="500">
+<img src="https://github.com/Gireesh123174/SunbaseAssignment/assets/85821830/40d9b53a-75cd-4c2a-b7a5-6186fa808640)" width="1000" height="500">
 
 
 
