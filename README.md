@@ -73,7 +73,7 @@ Update the information and click "Update".</br>
 
 On the student list page (list.jsp), click "Delete" next to a student to remove them from the database.</br>
 
-<img src="https://github.com/Gireesh123174/SunbaseAssignment/assets/85821830/ce68b5a9-e9d2-4989-b200-b7637035756c)" width="1000" height="5000">
+<img src="https://github.com/Gireesh123174/SunbaseAssignment/assets/85821830/ce68b5a9-e9d2-4989-b200-b7637035756c)" width="1000" height="500">
 
 
 
