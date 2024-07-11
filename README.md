@@ -14,8 +14,8 @@ This project is a Java EE web application that demonstrates CRUD (Create, Read, 
 4. MySQL or another compatible relational database
 5. IDE (like Eclipse, IntelliJ IDEA) with support for Java EE web development
 - Setup
-1. Clone the repository:
-       git clone https://github.com/your-username/StudentCRUDApp.git
+1. Clone the repository:                                                                                                                                                                                          
+     git clone https://github.com/your-username/StudentCRUDApp.git
 3. Database Setup:
    .Create a MySQL database named student_db.
    .Execute the following SQL script to create the students table:
