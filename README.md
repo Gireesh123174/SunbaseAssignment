@@ -50,3 +50,5 @@ Updating a Student</br>
 
 On the student list page (list.jsp), click "Edit" next to a student.</br>
 Update the information and click "Update".</br>
+
+<img src="https://github.com/Gireesh123174/SunbaseAssignment/assets/85821830/8e4f95ad-e51e-4b26-90ca-9e2b840e9cf3)" width="1000" height="500">
