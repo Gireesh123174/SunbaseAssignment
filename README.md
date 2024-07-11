@@ -1,12 +1,6 @@
 # SunbaseAssignment
 ## Student CRUD Web Application
 This project is a Java EE web application that demonstrates CRUD (Create, Read, Update, Delete) operations on a database table using JDBC, Servlets, and JSP.
-
-- Features
-1. Create: Add new students to the database.
-2. Read: Display a list of all students.
-3. Update: Edit existing student information.
-4. Delete: Remove a student from the database.
 - Prerequisites
 1. Before running this application, ensure you have the following installed:
 2. Java Development Kit (JDK) 8 or higher
@@ -14,6 +8,12 @@ This project is a Java EE web application that demonstrates CRUD (Create, Read, 
 4. MySQL or another compatible relational database
 5. IDE (like Eclipse, IntelliJ IDEA) with support for Java EE web development
 - Setup
+- Features
+1. Create: Add new students to the database.
+2. Read: Display a list of all students.
+3. Update: Edit existing student information.
+4. Delete: Remove a student from the database.
+
 1. Clone the repository:                                                                                                                                                                                          
      git clone https://github.com/your-username/StudentCRUDApp.git
 2. Database Setup:                                                                                                                                                                                             
