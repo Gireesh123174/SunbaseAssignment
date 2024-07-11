@@ -1,7 +1,6 @@
 # SunbaseAssignment
--Student CRUD Web Application
-
--This project is a Java EE web application that demonstrates CRUD (Create, Read, Update, Delete) operations on a database table using JDBC, Servlets, and JSP.
+##Student CRUD Web Application
+##This project is a Java EE web application that demonstrates CRUD (Create, Read, Update, Delete) operations on a database table using JDBC, Servlets, and JSP.
 
 -Features
 Create: Add new students to the database.
