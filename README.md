@@ -2,7 +2,7 @@
 ## Student CRUD Web Application
 This project is a Java EE web application that demonstrates CRUD (Create, Read, Update, Delete) operations on a database table using JDBC, Servlets, and JSP.
 
--Features
+- Features
 Create: Add new students to the database.
 Read: Display a list of all students.
 Update: Edit existing student information.
