@@ -14,14 +14,13 @@ import javax.servlet.http.HttpServletResponse;
 
 @WebServlet("/search")
 public class SearchServlet extends HttpServlet {
-    private static final long serialVersionUID = 1L;
-
+    
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         String query = request.getParameter("query");
         ResultSet resultSet = null;
 
         try {
-            Class.forName("com.mysql.jdbc.Driver"); // Replace with your JDBC driver class
+            Class.forName("com.mysql.jdbc.Driver"); 
             Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/student_db", "root", "root");
             String sql = "SELECT * FROM students WHERE name LIKE ?";
             PreparedStatement stmt = conn.prepareStatement(sql);
