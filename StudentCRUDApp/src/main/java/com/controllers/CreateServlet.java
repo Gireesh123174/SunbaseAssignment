@@ -3,9 +3,7 @@ package com.controllers;
 import javax.servlet.*;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.*;
-
 import com.utility.JDBC_Connection;
-
 import java.io.*;
 import java.sql.*;
 
