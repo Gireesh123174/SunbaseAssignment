@@ -16,8 +16,6 @@ import com.utility.JDBC_Connection;
 
 @WebServlet("/list")
 public class ReadServlet extends HttpServlet {
-    private static final long serialVersionUID = 1L;
-
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         ResultSet resultSet = null;
         try {
@@ -31,8 +29,4 @@ public class ReadServlet extends HttpServlet {
         }
         request.getRequestDispatcher("list.jsp").forward(request, response);
     }
-
-    protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        doGet(request, response);
-    }
 }
